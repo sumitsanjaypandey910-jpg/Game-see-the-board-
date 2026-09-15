@@ -1,0 +1,6 @@
+{
+  "name": "Hidden Object Scavenger Hunt",
+  "description": "An interactive hidden object scavenger hunt game with vibrant isometric maps, item collection, and hint tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
